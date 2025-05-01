@@ -19,3 +19,37 @@ Knowledge of serverless architectures and microservices.
 Familiarity with event-driven design patterns. 
 Understanding of database systems (SQL, NoSQL). 
 Experience with cloud security best practices
+
+
+
+
+
+
+Requirement for frontend
+
+
+Required Technical And Professional Expertise
+
+ 5-12 years of web app development experience
+ Strong understanding and experience with Semantic HTML, modular CSS, JavaScript (ES6+), TypeScript
+ Frontend Frameworks (React, Next.js etc.) and CSS Preprocessors (Sass/SCSS)
+ State Management (Redux, MobX, or Context API)
+ Experience handling data using XHR, JSON and REST APIs
+ RESTful APIs & Fetch/Axios Integration
+ Unit Testing (Jest, Mocha, Cypress)
+ Web Performance Optimization (Lazy Loading, Code Splitting)
+ Object-Oriented JavaScript & Asynchronous Programming
+ Basic UX Principles & Accessibility (WCAG, ARIA)
+ Strong ability to break down UI designs into extensible/modifiable/reusable/responsive component
+ Experience with Cross-Browser development including testing and resolving compatibility issues
+ Experience Unit Testing, debugging and resolving performance concerns
+ Team Git workflow and version control (Git, GitHub/GitLab/Bitbucket)
+
+Preferred Technical And Professional Experience
+
+ Desirable to have experience with Carbon design system,
+ Basic knowledge of Full Stack development, Java, Python etc.
+ Knowledge of software design patterns
+ Agile software development methodologies, SOLID principals of OOP
+ Knowledge of CI/CD, OpenShift, Kubernetes etc.
+ Ability to adapt to and learn new technologies
